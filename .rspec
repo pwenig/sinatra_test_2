@@ -1,8 +1,7 @@
-require 'sinatra/base'
-class App < Sinatra::Base
+--color
+--format progress
 
 
-end
 
 
 
